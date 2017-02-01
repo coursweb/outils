@@ -4,12 +4,14 @@ title: Editeurs de code
 permalink: /outils/code/
 ---
 
-Parmi les fonctionalités partagées par tous les éditeurs de code: 
+L'éditeur de code est un outil fondamental pour les métiers du web. Il existe un grand nombre d'éditeurs de code, ayant chacun ses particularités. Parmi les fonctionalités partagées par tous les éditeurs de code: 
 
-- la colorisation de la syntaxe pour faciliter la lecture et la détection d’erreurs.
-- la suggestion de termes propres au langage utilisé (HTML, CSS, JavaScript, etc).
+- la colorisation de la syntaxe, pour faciliter la lecture et la détection d’erreurs.
+- la suggestion automatique de termes propres au langage utilisé (HTML, CSS, JavaScript, etc).
 - le  « rechercher remplacer » à l'échelle d'un projet ou dossier.
 - le « rechercher remplacer » avec des « expressions régulières ».
+
+![Quelques éditeurs de code...](/cours-outils/img/code-editors.jpg)
 
 * *[TextWrangler](http://www.barebones.com/products/TextWrangler/)* - éditeur gratuit 
 * *[Sublime Text](https://www.sublimetext.com/)* - éditeur gratuit, le plus populaire en ce moment. Il existe [un grand nombre d'extensions](https://packagecontrol.io/) pour étendre ses fonctionalités. 
