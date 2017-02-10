@@ -23,8 +23,10 @@ L'éditeur de code est un outil fondamental pour les métiers du web. Il existe 
 
 **L'inspecteur du navigateur** est un outil indispensable pour le développement d'interfaces web. Il permet l’analyse des éléments de mise en page d’un site, son chargement, son poids etc. Il est disponible dans les navigateurs majeurs (Firefox, Chrome, Safari). À noter que Firefox propose une "[version développeur](https://www.mozilla.org/fr/firefox/developer/)".
 
+![L'inspecteur de Firefox permet une vue en 3D de la structure d'une page web](/cours-outils/img/FF-devtools-3d.jpg)
+
 Dans Safari, il est nécessaire d'activer ces outils dans les préférences (sous *Avancées > Afficher le menu Développement...*).
 
-Afin de pouvoir tester des sites sous Internet Explorer et Edge, Microsoft propose [des images virtuelles Windows](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) incluant ce navigateur (de IE8 à IE11 et Edge).
+Afin de pouvoir tester des sites sous Internet Explorer et Edge, Microsoft propose [des machines virtuelles Windows](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) incluant ce navigateur (de IE8 à IE11 et Edge).
 
 

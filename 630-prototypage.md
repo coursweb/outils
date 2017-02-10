@@ -47,9 +47,13 @@ Une autre approche consiste à créer les visuels dans un outil de design (Photo
 
 *Sketch*, publié en 2010 par Bohemian Software, est une application de design d’interface très populaire actuellement. Sketch est développé uniquement pour Mac OSX, par une petite équipe de développement basée aux Pays-Bas. Bohemian Software propose également une application pour iOS, *Sketch Mirror*, visant à prévisualiser les créations sur iPhone ou iPad.
 
+![Sketch avec prévisualistion iOS](/cours-outils/img/sketch-mirror.jpg)
+
 La situation des outils de design d'interface est assez particulière: Adobe a stoppé en 2010 le développement de *Fireworks*, utilisé par de nombreux webdesigners pour la création de visuels. En 2011, Adobe lance la suite de logiciels Edge (*Edge Animate, Edge Inspect, Edge Reflow, Edge Code*), afin de s'adapter aux besoins des webdesigners (lire à ce sujet [cet article de Aaron Shekey](https://www.aaronshekey.com/work/adobe/)). 
 
 La suite Edge est stoppée en 2015, certains développements étant intégrés dans *Dreamweaver* et *Muse*. En 2016, Adobe dévoile un nouveau logiciel: *Adobe Experience Design* (Adobe XD). C'est visiblement une tentative de contrer le succès de Sketch, et l'accueil des designers UX est [plutôt](http://outsmartlabs.com/blog/sketch-v-s-adobe-xd/) [critique](http://scottjensen.design/2016/04/what-i-think-of-adobe-xd/)...
+
+![Interface de Adobe XD](/cours-outils/img/adobeXD.png)
 
 #### Outils de présentation et communication
 
@@ -80,12 +84,16 @@ Tous deux proposent des **applications mobiles**:
 
 Applications de prototypage utilisant un principe de "patches" (*node based design*):
 
-- *[Origami](https://facebook.github.io/origami/)* - outil développé par Facebook, utilise QuartzComposer, permet de visualiser sur iOS (avec une application, *Origami Live*).
-- *[Avocado](https://github.com/ideo/avocado/)* - "an open source interaction design toolbox, built on top of Facebook's Origami framework".
+- *[Origami](http://origami.design/)* - outil développé par Facebook, permet de visualiser sur iOS (avec une application, *Origami Live*).
+- *[Avocado](https://github.com/ideo/avocado/)* - "an open source interaction design toolbox, built on top of Facebook's Origami framework". C'est un outil créé par la fameuse agence [IDEO](https://www.ideo.com/eu). Ne semble plus maintenu depuis 2015.
 
-Autre logiciel atypique: *[Framer](https://framerjs.com/)*
+![Interface d'Origami Studio](/cours-outils/img/Origami-Interface.jpg)
 
-La profession du design web étant en rapide évolution, le marché des outils informatiques est particulièrement instable. Les nouveaux outils sont souvent lancés en mode "startup", avec un financement initial modeste et un modèle économique flou. Par conséquent, il n'est pas rare que ces entreprises disparaissent, en se faisant racheter par l'un des "géants": 
+Autre logiciel atypique: *[Framer](https://framer.com/)* - logiciel créé par [Koen Bok](http://koenbok.com/), fondateur de l'agence néerlandaise Sofa, acquise par Facebook en 2011.
+
+<h3>Un paysage en mouvement</h3>
+
+La profession du design web étant en rapide évolution, le marché des outils de design et de prototypage est particulièrement instable. Les nouveaux outils sont souvent lancés en mode "startup", avec un financement initial modeste et un modèle économique incertain. Par conséquent, il n'est pas rare que ces entreprises disparaissent, en se faisant racheter par l'un des "géants": 
 
 **Pixelapse** (2011)
 
@@ -104,9 +112,18 @@ La profession du design web étant en rapide évolution, le marché des outils i
 - Achat par Google en 2015. Annonce la fin du développement en 2016.
 - En 2016, Google annonce une nouvelle application, *Stage*: "Stage is being brought to you by the teams behind Pixate and Form."
 
+![Pixate](/cours-outils/img/pixate.png)
+
 **Macaw** (2014)
 
 - Slogan: “the code-savvy Web design tool”  
-- Campagne Kickstarter en 2013 qui a levé $275,929.
+- Campagne [Kickstarter](https://www.kickstarter.com/projects/macaw/macaw-the-code-savvy-web-design-tool) en 2013 qui a levé $275,929.
 - Achat par InVision en 2016, le développement s'achève.
 
+![Aperçu de Macaw Scarlet, qui ne sera jamais publié...](/cours-outils/img/macaw-scarlet.png)
+
+<h3>Le design selon Google</h3>
+
+Google a commencé à investir d'importantes ressources dans le domaine du design, avec notamment le système "Material Design" annoncé en 2014, la plateforme [Google Design](https://design.google.com/), les [conférences SPAN consacrées au design](https://design.google.com/events/span/), le site de référence [material.io](https://material.io/), et [l'annonce en 2016](https://design.google.com/articles/design-is-never-done/) d'une série d'outils: [Stage](https://material.io/stage/) ("define dynamic interfaces with interactive motion") et [Gallery](https://material.io/gallery/) ("design collaboration, simplified").
+
+![Stage et Gallery, deux outils de design annoncés par Google en 2016](/cours-outils/img/google-design-tools-wide.jpg)
