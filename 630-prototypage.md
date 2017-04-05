@@ -9,6 +9,12 @@ Prototypage, maquettage, wireframing
 
 Les outils graphiques utilisés pour créer des maquettes de sites web sont aujourd'hui très variés. Ces outils sont souvent utilisés aussi bien pour les maquettes de sites que d'applications, ces deux domaines étant confrontés aux mêmes problématiques (multiplicité des écrans et méthodes d'interaction). 
 
+Dans un livre publié en 2008?, (Prototyping, par Todd Zaki Warfel), l'auteur indique: 
+
+> There isn't a dedicated prototyping tool for non-coders that can create rapid prototypes with little effort and produce reusable source code. 
+
+Son livre fait référence aux logiciels suivants: PowerPoint, Keynote, Visio, Fireworks, Axure, et... HTML et JavaScript.
+
 Depuis quelques années, la pertinence des outils de design classiques dans l'environnement du web fait l'objet de vifs débats: 
 
 - Article de Brad Frost: “[The Post-PSD Era](http://bradfrost.com/blog/post/the-post-psd-era/)” (2013) - "Are we entering the Post-PSD Era of web design?" - L'auteur relève des faiblesses de Photoshop pour la réalisation de maquettes web: supports de taille et résolution variable. Eléments interactifs tels que les liens. 
