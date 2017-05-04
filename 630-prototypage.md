@@ -41,7 +41,7 @@ Ces outils servent à produire des "wireframes", càd des représentatons centr�
 
 #### Outils de prototypage
 
-*Axure*, *Just in Mind*, *Pixate*...
+*Axure*, *Just in Mind*, ~~Pixate~~, *Flinto*...
 
 À la différence des "wireframes", ces outils servent à produire des maquettes visuelles proches de l'expérience finale, l'écriture de code en moins. On distingue le prototype de la maquette (*mockup*, créé dans un outil comme Photoshop): le prototype vise à simuler non seulement le graphisme, mais aussi le *comportement* du produit final. Un outil de prototypage permettra de définir les *interactions* et les *transitions* entre les différents écrans du site (ou de l'application).
 
@@ -67,8 +67,6 @@ Ces outils permettent de construire une maquette interactive avec simulation de 
 
 **InVision** - InVision est une entreprise basée à New York. "Launched in 2011, the company has since raised around $80M in four fundraising rounds."
 En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/).
-
-> "*Marvel* and *InVision* can be compared, but comparing them to *Just in Mind* is just wrong, this is a complete prototyping tool, the other 2 are just for finalization and collaboration." (un internaute)
 
 **Marvel** - Marvel est lancé en 2013 par une startup basée à Londres, comptant en 2016 une vingtaine d'employés. Construit initialement autour de DropBox, Marvel ajoute en 2015 le support des fichiers Sketch.
 
@@ -96,6 +94,8 @@ Applications de prototypage utilisant un principe de "patches" (*node based desi
 ![Interface d'Origami Studio](/cours-outils/img/Origami-Interface.jpg)
 
 Autre logiciel atypique: *[Framer](https://framer.com/)* - logiciel créé par [Koen Bok](http://koenbok.com/), fondateur de l'agence néerlandaise Sofa, acquise par Facebook en 2011.
+
+D'autres logiciels apparus récemment, qui mettent l'accent sur l'animation, sont [Principle](http://principleformac.com/) (sorti en 2015) et [Kite Compositor](https://kiteapp.co/) (2017).
 
 <h3>Un paysage en mouvement</h3>
 
