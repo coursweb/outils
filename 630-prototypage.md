@@ -15,7 +15,7 @@ Dans un livre publié en 2008?, (Prototyping, par Todd Zaki Warfel), l'auteur in
 
 Son livre fait référence aux logiciels suivants: PowerPoint, Keynote, Visio, Fireworks, Axure, et... HTML et JavaScript.
 
-Depuis quelques années, la pertinence des outils de design classiques dans l'environnement du web fait l'objet de vifs débats: 
+Depuis quelques années, la pertinence des outils de design classiques dans l'environnement du web a fait l'objet de vifs débats: 
 
 - Article de Brad Frost: “[The Post-PSD Era](http://bradfrost.com/blog/post/the-post-psd-era/)” (2013) - "Are we entering the Post-PSD Era of web design?" - L'auteur relève des faiblesses de Photoshop pour la réalisation de maquettes web: supports de taille et résolution variable. Eléments interactifs tels que les liens. 
 - Article de Emelyn Baker: “[2014 - The Year of Interaction Design Tools](https://medium.com/@extremelyn/2014-the-year-of-design-tools-3c449d771e62#.542hf0q21)”
@@ -29,19 +29,19 @@ On peut distinguer différentes classes d'outil, répondant à ces modes de trav
 
 - Outils classiques de graphisme (*Photoshop, Illustrator, InDesign, Keynote, Powerpoint*...)
 - Outils de wireframing: *UXPin, Balsamiq, Axure, Proto.io* ...
-- Outils de design d'interface: *Sketch* ...
-- Outils de prototypage: *Just in Mind, Axure, Origami, Pixate* ...
+- Outils de design d'interface: *Sketch, Figma, Adobe XD* ...
+- Outils de prototypage: *Just in Mind, Axure, Flinto, Origami* ...
 - Outils d'animation: *After Effects, Principle, Framer* ...
 
 #### Outils de Wireframing
 
 *UXPin*, *Balsamiq*, *Axure*, *Proto.io* 
 
-Ces outils servent à produire des "wireframes", càd des représentatons centrées sur la navigation et la répartition de blocs de contenus, sans interférer avec le design graphique. Il est possible de faire cela avec un outil de dessin vectoriel (Illustrator...), mais il existe des outils spécifiquement dédiés. Il est aussi courant de produire des wireframes sur papier.
+Ces outils servent à produire des "wireframes", càd des représentatons centrées sur la navigation et la répartition de blocs de contenus, sans interférer avec le design graphique. Il est possible de faire cela avec un outil de dessin vectoriel (p.ex. Illustrator), mais il existe des outils spécifiquement dédiés. Il est aussi courant de produire des wireframes sur papier, dans un carnet de notes...
 
 #### Outils de prototypage
 
-*Axure*, *Just in Mind*, ~~Pixate~~, *Flinto*...
+*Axure*, *Just in Mind*, *Flinto*...
 
 À la différence des "wireframes", ces outils servent à produire des maquettes visuelles proches de l'expérience finale, l'écriture de code en moins. On distingue le prototype de la maquette (*mockup*, créé dans un outil comme Photoshop): le prototype vise à simuler non seulement le graphisme, mais aussi le *comportement* du produit final. Un outil de prototypage permettra de définir les *interactions* et les *transitions* entre les différents écrans du site (ou de l'application).
 
@@ -55,20 +55,21 @@ Une autre approche consiste à créer les visuels dans un outil de design (Photo
 
 ![Sketch avec prévisualistion iOS](/cours-outils/img/sketch-mirror.jpg)
 
-La situation des outils de design d'interface est assez particulière: Adobe a stoppé en 2010 le développement de *Fireworks*, utilisé par de nombreux webdesigners pour la création de visuels. En 2011, Adobe lance la suite de logiciels Edge (*Edge Animate, Edge Inspect, Edge Reflow, Edge Code*), afin de s'adapter aux besoins des webdesigners (lire à ce sujet [cet article de Aaron Shekey](https://www.aaronshekey.com/work/adobe/)). 
+La situation des outils de design d'interface est assez particulière: Adobe a stoppé en 2010 le développement de *Fireworks*, utilisé par de nombreux webdesigners pour la création de visuels. En 2011, Adobe lance la suite de logiciels *Edge* (*Edge Animate, Edge Inspect, Edge Reflow, Edge Code*), afin de mieux répondre aux besoins des webdesigners (lire à ce sujet [cet article de Aaron Shekey](https://www.aaronshekey.com/work/adobe/)). 
 
-La suite Edge est stoppée en 2015, certains développements étant intégrés dans *Dreamweaver* et *Muse*. En 2016, Adobe dévoile un nouveau logiciel: *Adobe Experience Design* (Adobe XD). C'est visiblement une tentative de contrer le succès de Sketch, et l'accueil des designers UX est [plutôt](http://outsmartlabs.com/blog/sketch-v-s-adobe-xd/) [critique](http://scottjensen.design/2016/04/what-i-think-of-adobe-xd/)...
+![Palmarès des outils de design d'interface, sondage effectué par Khoi Vinh en 2015](/cours-outils/img/interface-design-tools.png)
+
+Le développement de la suite Adobe Edge est stoppé en 2015, certains développements étant intégrés dans *Dreamweaver* et *Muse*. En 2016, Adobe dévoile un nouveau logiciel: *Adobe Experience Design* (Adobe XD). C'est visiblement une tentative de contrer le succès de Sketch, et l'accueil des designers UX est [relativement](http://outsmartlabs.com/blog/sketch-v-s-adobe-xd/) [mitigé](http://scottjensen.design/2016/04/what-i-think-of-adobe-xd/).
 
 ![Interface de Adobe XD](/cours-outils/img/adobeXD.png)
 
 #### Outils de présentation et communication
 
-Ces outils permettent de construire une maquette interactive avec simulation de navigation, en combinant des images et en définissant des zones cliquables qui permettent de naviguer d'un écran à l'autre. Le travail de design se fait dans une autre application, p.ex. Photoshop, Illustrator ou Sketch. Les fichiers graphiques sont synchronisés, afin de permettre un processus de travail fluide. Ces outils facilitent également la collaboration et la discussion, via leurs fonctions de commentaires et annotations. 
+Ce nouveau type outils permet de construire une maquette interactive avec simulation de navigation, en combinant des images et en définissant des zones cliquables qui permettent de naviguer d'un écran à l'autre. Le travail de design se fait dans une autre application — le plus souvent *Photoshop*, *Illustrator* ou *Sketch*. Les fichiers graphiques sont synchronisés, afin de permettre un processus de travail fluide. Ces outils visent également à faciliter la collaboration et la discussion, via leurs fonctions de partage, de commentaires et annotations. 
 
-**InVision** - InVision est une entreprise basée à New York. "Launched in 2011, the company has since raised around $80M in four fundraising rounds."
-En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/).
+**InVision** - InVision est une entreprise basée à New York. "Launched in 2011, the company has since raised around $80M in four fundraising rounds." En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et va même développer "Craft", une série d'extensions apportant de nouvelles fonctionalités à Sketch.
 
-**Marvel** - Marvel est lancé en 2013 par une startup basée à Londres, comptant en 2016 une vingtaine d'employés. Construit initialement autour de DropBox, Marvel ajoute en 2015 le support des fichiers Sketch.
+**Marvel** - Marvel est lancé en 2013. C'est une petite startup basée à Londres, comptant en 2016 une vingtaine d'employés. Construit initialement autour de DropBox, Marvel ajoute en 2015 le support des fichiers Sketch.
 
 **Particularités:**
 
@@ -128,7 +129,7 @@ La profession du design web étant en rapide évolution, le marché des outils d
 
 ![Aperçu de Macaw Scarlet, qui ne sera jamais publié...](/cours-outils/img/macaw-scarlet.png)
 
-<h3>Le design selon Google</h3>
+<h3>Le design selon Google...</h3>
 
 Google a commencé à investir d'importantes ressources dans le domaine du design, avec notamment le système "Material Design" annoncé en 2014, la plateforme [Google Design](https://design.google.com/), les [conférences SPAN consacrées au design](https://design.google.com/events/span/), le site de référence [material.io](https://material.io/), et [l'annonce en 2016](https://design.google.com/articles/design-is-never-done/) d'une série d'outils: [Stage](https://material.io/stage/) ("define dynamic interfaces with interactive motion") et [Gallery](https://material.io/gallery/) ("design collaboration, simplified").
 
