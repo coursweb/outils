@@ -16,8 +16,8 @@ L'éditeur de code est un outil fondamental pour les métiers du web. Il existe 
 * *[TextWrangler](http://www.barebones.com/products/TextWrangler/)* - éditeur gratuit 
 * *[Sublime Text](https://www.sublimetext.com/)* - éditeur gratuit, le plus populaire en ce moment. Il existe [un grand nombre d'extensions](https://packagecontrol.io/) pour étendre ses fonctionalités. 
 * *[Atom](https://atom.io/)* - éditeur gratuit et open source, très similaire à Sublime Text. Il existe également [des extensions](https://atom.io/packages).
-* A COMPLETER: éditeur graduit de Adobe
-* À COMPLETER: nouvel éditeur de code Microsoft
+* *[Brackets](http://brackets.io/)* - éditeur gratuit et open source, produit par Adobe.
+* *[Visual Studio Code](https://code.visualstudio.com/)* - éditeur de code gratuit produit par Microsoft, disponible pour Windows, Mac et Linux. Inclut le support pour le versionnement Git.
 * *[Coda](https://panic.com/coda/)* - éditeur avec des fonctions de prévisualisation. Prix: $99.
 * *[Espresso](http://www.macrabbit.com/espresso/)* - éditeur avec des fonctions de prévisualisation du CSS. Prix: $75.
 * *[PhpStorm](https://www.jetbrains.com/phpstorm/)* - éditeur spécialisé pour le langage PHP (utile pour le développement de thèmes WordPress, par exemple).
