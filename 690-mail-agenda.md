@@ -6,6 +6,8 @@ permalink: /outils/mail/
 
 ## Clients email:
 
+Pour des précisions sur l'utilisation de clients email, des méthodes de gestion des emails, des infos sur les newsletters et mailing-listes, voir le chapitre ***[Divers > Email](/divers/email/)***.
+
 - ***Mail***, par Apple
 - ***Outlook***, par Microsoft
 - ***[Thunderbird](https://www.mozilla.org/fr/thunderbird/)*** - client développé par Mozilla, gratuit et open-source
