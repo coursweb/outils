@@ -9,7 +9,7 @@ Prototypage, maquettage, wireframing
 
 Les outils graphiques utilisés pour créer des maquettes de sites web sont aujourd'hui très variés. Ces outils sont souvent utilisés aussi bien pour les maquettes de sites que d'applications, ces deux domaines étant confrontés aux mêmes problématiques (multiplicité des écrans et méthodes d'interaction). 
 
-Dans un livre publié en 2008?, (Prototyping, par Todd Zaki Warfel), l'auteur indique: 
+Dans un livre publié en 2008, (*Prototyping*, par Todd Zaki Warfel), l'auteur indique: 
 
 > There isn't a dedicated prototyping tool for non-coders that can create rapid prototypes with little effort and produce reusable source code. 
 
@@ -21,11 +21,11 @@ Depuis quelques années, la pertinence des outils de design classiques dans l'en
 - Article de Emelyn Baker: “[2014 - The Year of Interaction Design Tools](https://medium.com/@extremelyn/2014-the-year-of-design-tools-3c449d771e62#.542hf0q21)”
 - Khoi Vinh, mai 2015: “[The State of Design Tools: An Unscientific Survey](https://www.subtraction.com/2015/05/07/the-state-of-design-tools/)” - L'auteur indique: 
 
-> “Prototyping is the Wild West. Every team we met with uses a variety of prototyping tools, whether Pixate, Marvel, InVision, Flinto or others.”
+> Prototyping is the Wild West. Every team we met with uses a variety of prototyping tools, whether Pixate, Marvel, InVision, Flinto or others. *– Khoi Vinh*
 
 ![Catégories établies par Khoi Vinh dans son sondage](/cours-divers/img/categories-outils.png)
 
-On peut distinguer différentes classes d'outil, répondant à ces modes de travail multiples, et dans une certaine mesure à différentes étapes du processus de création:
+On peut distinguer différentes classes d'outil, répondant à ces modes de travail multiples, et dans une certaine mesure à différentes étapes du **processus de création**:
 
 - Outils classiques de graphisme (*Photoshop, Illustrator, InDesign, Keynote, Powerpoint*...)
 - Outils de wireframing: *UXPin, Balsamiq, Axure, Proto.io* ...
@@ -39,6 +39,8 @@ On peut distinguer différentes classes d'outil, répondant à ces modes de trav
 
 Ces outils servent à produire des "wireframes", càd des représentatons centrées sur la navigation et la répartition de blocs de contenus, sans interférer avec le design graphique. Il est possible de faire cela avec un outil de dessin vectoriel (p.ex. Illustrator), mais il existe des outils spécifiquement dédiés. Il est aussi courant de produire des wireframes sur papier, dans un carnet de notes...
 
+> Chez Filament Group, nous démarrons la plupart de nos projets sous Adobe Illustrator, avec lequel nous itérons des concepts de design visuel généraux. Nous essayons ensuite de passer au code aussi vite que possible. *- Scott Jehl, dans: Design web responsive et responsable, 2014*
+
 #### Outils de prototypage
 
 *Axure*, *Just in Mind*, *Flinto*...
@@ -49,7 +51,7 @@ Certains outils proposent d'inclure tout cela dans une application.
 
 Une autre approche consiste à créer les visuels dans un outil de design (Photoshop, Illustrator, Sketch...), puis de définir les interactions et construire un prototype avec des outils comme *InVision* ou *Marvel* (voir ci-dessous).
 
-<h4>Outils de dessin vectoriel orientés design d'interfaces</h4>
+#### Outils de dessin vectoriel orientés design d'interfaces
 
 *Sketch*, publié en 2010 par Bohemian Software, est une application de design d’interface très populaire actuellement. Sketch est développé uniquement pour Mac OSX, par une petite équipe de développement basée aux Pays-Bas. Bohemian Software propose également une application pour iOS, *Sketch Mirror*, visant à prévisualiser les créations sur iPhone ou iPad.
 
@@ -129,7 +131,7 @@ La profession du design web étant en rapide évolution, le marché des outils d
 
 ![Aperçu de Macaw Scarlet, qui ne sera jamais publié...](/cours-outils/img/macaw-scarlet.png)
 
-<h3>Le design selon Google...</h3>
+### Le design selon Google...
 
 Google a commencé à investir d'importantes ressources dans le domaine du design, avec notamment le système "Material Design" annoncé en 2014, la plateforme [Google Design](https://design.google.com/), les [conférences SPAN consacrées au design](https://design.google.com/events/span/), le site de référence [material.io](https://material.io/), et [l'annonce en 2016](https://design.google.com/articles/design-is-never-done/) d'une série d'outils: [Stage](https://material.io/stage/) ("define dynamic interfaces with interactive motion") et [Gallery](https://material.io/gallery/) ("design collaboration, simplified").
 
