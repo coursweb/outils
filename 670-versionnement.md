@@ -29,10 +29,12 @@ En juillet 2017, une nouvelle application dédiée au versionnement des fichiers
 
 Voici comment ils décrivent le point de départ:
 
->> In 2015, Josh (CEO) and Kevin (CTO) were working together at Habitat when the frequent game of “where’s the latest design” finally drove Kevin to ask, “Why don’t designers have proper version control?” (...) So began Abstract. Our evolving answer to how we believe modern design teams will work. A collaborative, transparent, and effective way to design.
+> In 2015, Josh (CEO) and Kevin (CTO) were working together at Habitat when the frequent game of “where’s the latest design” finally drove Kevin to ask, “Why don’t designers have proper version control?” (...) So began Abstract. Our evolving answer to how we believe modern design teams will work. A collaborative, transparent, and effective way to design.
 
 Ressources: 
 
-* *[The definitive design workflow: Abstract app](https://blog.prototypr.io/the-definitive-design-workflow-abstract-app-611b86d7649b)*, par Vitor Guerra, juillet 2017
-* *[Abstract Wants to Change the Way Designers Work — An Interview with Josh Brewer](https://www.subtraction.com/2017/02/27/abstract-wants-to-change/)*, par Khoi Vinh, février 2017
-* *[Collaborative tools for designers](http://p.xuv.be/collaborative-tools-for-designers-part-1)*, par Julien Deswaef, juillet 2015 : compare différentes applications, 
+<div class="cards"></div>
+
+* [The definitive design workflow: Abstract app](https://blog.prototypr.io/the-definitive-design-workflow-abstract-app-611b86d7649b) par Vitor Guerra, juillet 2017
+* [Abstract Wants to Change the Way Designers Work — An Interview with Josh Brewer](https://www.subtraction.com/2017/02/27/abstract-wants-to-change/) par Khoi Vinh, février 2017
+* [Collaborative tools for designers](http://p.xuv.be/collaborative-tools-for-designers-part-1) par Julien Deswaef, juillet 2015 : compare différentes applications, 
