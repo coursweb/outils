@@ -21,17 +21,21 @@ Cependant, un système comme Git est optimisé pour travailler avec des fichiers
 
 Voir [la documentation pour utiliser Git](../../git/)
 
-## Systèmes de versionnement pour fichiers graphiques
+## Systèmes de versionnement pour fichiers graphiques
 
-Un produit nommé **[Pixelapse](http://pixelapse.com/)** a cherché à combler cette lacune, et d'offrir un outil de versionnement pour les fichiers graphiques. Développé dès 2011 et lancé en 2013 par deux designers, [Min Ming Lo](https://twitter.com/lominming) et Shravan Reddy, leur startup est rachetée en 2015 par Dropbox, et le développement de Pixelapse prend fin. L'acquisition de ce produit à permis des améliorations du côté de Dropbox: *design previews*, *comments*, *annotations*.
+Un produit nommé **[Pixelapse](http://pixelapse.com/)** a cherché à combler cette lacune, en offrant un outil de versionnement pour les fichiers graphiques. Développé dès 2011 et lancé en 2013 par deux designers, [Min Ming Lo](https://twitter.com/lominming) et Shravan Reddy, leur startup est rachetée en 2015 par **Dropbox**, et le développement de Pixelapse prend fin. L'acquisition de ce produit aurait permis des améliorations du côté de Dropbox: *design previews*, *comments*, *annotations*.
 
 En juillet 2017, une nouvelle application dédiée au versionnement des fichiers graphiques est dévoilée : **[Abstract](https://www.goabstract.com/)**. L'équipe fondatrice de cette startup basée à San Francisco se compose de [Joshua Brewer](https://twitter.com/jbrewer), [Kevin Smith](http://kevinsmith.cc/) et [Frank Chimero](https://frankchimero.com/). 
+
+![Abstract](/cours-outils/img/abstract-interface.png)
 
 Voici comment ils décrivent le point de départ:
 
 > In 2015, Josh (CEO) and Kevin (CTO) were working together at Habitat when the frequent game of “where’s the latest design” finally drove Kevin to ask, “Why don’t designers have proper version control?” (...) So began Abstract. Our evolving answer to how we believe modern design teams will work. A collaborative, transparent, and effective way to design.
 
-Ressources: 
+## Ressources 
+
+Quelques lectures sur le versionnement de ressources graphiques:
 
 <div class="cards"></div>
 
