@@ -69,7 +69,9 @@ Le développement de la suite Adobe Edge est stoppé en 2015, certains développ
 
 Ce nouveau type outils permet de construire une maquette interactive avec simulation de navigation, en combinant des images et en définissant des zones cliquables qui permettent de naviguer d'un écran à l'autre. Le travail de design se fait dans une autre application — le plus souvent *Photoshop*, *Illustrator* ou *Sketch*. Les fichiers graphiques sont synchronisés, afin de permettre un processus de travail fluide. Ces outils visent également à faciliter la collaboration et la discussion, via leurs fonctions de partage, de commentaires et annotations. 
 
-**InVision** - InVision est une entreprise basée à New York. "Launched in 2011, the company has since raised around $80M in four fundraising rounds." En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et va même développer "Craft", une série d'extensions apportant de nouvelles fonctionalités à Sketch.
+**InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et va même développer "Craft", une série d'extensions apportant de nouvelles fonctionalités à Sketch. Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision annonce en fin 2017 la sortie de l'application **InVision Studio** (pour janvier 2018).
+
+![Un prototype d'application mobile présenté avec InVision](/cours-outils/img/prototyping/invision-demo.jpg)
 
 **Marvel** - Marvel est lancé en 2013. C'est une petite startup basée à Londres, comptant en 2016 une vingtaine d'employés. Construit initialement autour de DropBox, Marvel ajoute en 2015 le support des fichiers Sketch.
 
@@ -96,18 +98,20 @@ Applications de prototypage utilisant un principe de "patches" (*node based desi
 
 ![Interface d'Origami Studio](/cours-outils/img/Origami-Interface.jpg)
 
-Autre logiciel atypique: *[Framer](https://framer.com/)* - logiciel créé par [Koen Bok](http://koenbok.com/), fondateur de l'agence néerlandaise Sofa, acquise par Facebook en 2011.
+Autre logiciel atypique: *[Framer](https://framer.com/)* - logiciel créé par [Koen Bok](http://koenbok.com/), fondateur de l'agence néerlandaise Sofa, acquise par Facebook en 2011. Ce logiciel propose une vue en code (en CoffeeScript), permettant de paramétrer des prototypes animés.
+
+![Interface de Framer Studio](/cours-outils/img/framer-studio.png)
 
 D'autres logiciels apparus récemment, qui mettent l'accent sur l'animation, sont [Principle](http://principleformac.com/) (sorti en 2015) et [Kite Compositor](https://kiteapp.co/) (2017).
 
-<h3>Un paysage en mouvement</h3>
+### Un paysage en mouvement
 
 La profession du design web étant en rapide évolution, le marché des outils de design et de prototypage est particulièrement instable. Les nouveaux outils sont souvent lancés en mode "startup", avec un financement initial modeste et un modèle économique incertain. Par conséquent, il n'est pas rare que ces entreprises disparaissent, en se faisant racheter par l'un des "géants": 
 
 **Pixelapse** (2011)
 
 - Permet de comparer visuellement des changements de design.
-- Racheté par Dropbox.
+- Achat par Dropbox en 2015.
 
 **Form** 
 
