@@ -7,7 +7,7 @@ permalink: /outils/statistiques/
 
 - *[Can I Use](http://caniuse.com/)* est un site-ressource qui donne les informations actuelles sur le support des divers modules CSS et HTML par les navigateurs. Il permet de vérifier ce que les différents navigateurs et leurs versions sont capables d’afficher ou non.
 
-![Support (incomplet) du CSS Grid Layout en novembre 2016 selon CanIUse](/cours-outils/img/caniuse-grid-layout.png)
+![Support (incomplet) du CSS Grid Layout en novembre 2016 selon CanIUse](/cours-outils/img/caniuse-grid-layout-nov2016.png)
 
 - Le site *[StatCounter](http://gs.statcounter.com/)* donne des statistiques sur les usages du web: les versions de navigateur en utilisation, les tailles d'écran, etc.
 
