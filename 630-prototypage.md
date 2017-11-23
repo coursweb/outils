@@ -37,7 +37,9 @@ On peut distinguer différentes classes d'outil, répondant à ces modes de trav
 
 *UXPin*, *Balsamiq*, *Axure*, *Proto.io* 
 
-Ces outils servent à produire des "wireframes", càd des représentatons centrées sur la navigation et la répartition de blocs de contenus, sans interférer avec le design graphique. Il est possible de faire cela avec un outil de dessin vectoriel (p.ex. Illustrator), mais il existe des outils spécifiquement dédiés. Il est aussi courant de produire des wireframes sur papier, dans un carnet de notes...
+Ces outils servent à produire des "wireframes", càd des représentatons centrées sur la navigation et la répartition de blocs de contenus, sans interférer avec le design graphique. Il est possible de faire cela avec un outil de dessin vectoriel (p.ex. Illustrator), mais il existe des outils spécifiquement dédiés. 
+
+Il est aussi courant de produire des wireframes sur papier, dans un carnet de notes...
 
 > Chez Filament Group, nous démarrons la plupart de nos projets sous Adobe Illustrator, avec lequel nous itérons des concepts de design visuel généraux. Nous essayons ensuite de passer au code aussi vite que possible. *- Scott Jehl, dans: Design web responsive et responsable, 2014*
 
@@ -67,9 +69,13 @@ Le développement de la suite Adobe Edge est stoppé en 2015, certains développ
 
 #### Outils de présentation et communication
 
-Ce nouveau type outils permet de construire une maquette interactive avec simulation de navigation, en combinant des images et en définissant des zones cliquables qui permettent de naviguer d'un écran à l'autre. Le travail de design se fait dans une autre application — le plus souvent *Photoshop*, *Illustrator* ou *Sketch*. Les fichiers graphiques sont synchronisés, afin de permettre un processus de travail fluide. Ces outils visent également à faciliter la collaboration et la discussion, via leurs fonctions de partage, de commentaires et annotations. 
+Ce nouveau type outils permet de construire une maquette interactive avec simulation de navigation, en combinant des images et en définissant des zones cliquables qui permettent de naviguer d'un écran à l'autre. Le travail de design se fait dans une autre application — le plus souvent *Photoshop*, *Illustrator* ou *Sketch*. Les fichiers graphiques sont synchronisés, afin de permettre un processus de travail fluide. 
 
-**InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et va même développer "Craft", une série d'extensions apportant de nouvelles fonctionalités à Sketch. Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision annonce en fin 2017 la sortie de l'application **InVision Studio** (pour janvier 2018).
+Ces outils visent également à faciliter la collaboration et la discussion, via leurs fonctions de partage, de commentaires et annotations. 
+
+**InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et va même développer "Craft", une série d'extensions apportant de nouvelles fonctionalités à Sketch. 
+
+Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision annonce en fin 2017 la sortie de l'application **InVision Studio** (pour janvier 2018).
 
 ![Un prototype d'application mobile présenté avec InVision](/cours-outils/img/prototyping/invision-demo.jpg)
 
