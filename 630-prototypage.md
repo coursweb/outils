@@ -17,7 +17,8 @@ Son livre fait référence aux logiciels suivants: PowerPoint, Keynote, Visio, F
 
 Depuis quelques années, la pertinence des outils de design classiques dans l'environnement du web a fait l'objet de vifs débats: 
 
-- Article de Brad Frost: “[The Post-PSD Era](http://bradfrost.com/blog/post/the-post-psd-era/)” (2013) - "Are we entering the Post-PSD Era of web design?" - L'auteur relève des faiblesses de Photoshop pour la réalisation de maquettes web: supports de taille et résolution variable. Eléments interactifs tels que les liens. 
+- Article de Brad Frost: “[The Post-PSD Era](http://bradfrost.com/blog/post/the-post-psd-era/)” (2013) - "Are we entering the Post-PSD Era of web design?" - L'auteur relève des faiblesses de Photoshop pour la réalisation de maquettes web: supports de taille et résolution variable. Eléments interactifs tels que les liens.
+- Teehan+Lax: [Designing with Code](http://www.teehanlax.com/blog/designing-with-code/) – "The problem with Photoshop is that what’s being created is actually a fiction. It somewhat resembles what the final product might look like, but it’s not real. Layout and typography decisions are made that often don’t translate accurately to HTML."
 - Article de Emelyn Baker: “[2014 - The Year of Interaction Design Tools](https://medium.com/@extremelyn/2014-the-year-of-design-tools-3c449d771e62#.542hf0q21)”
 - Khoi Vinh, mai 2015: “[The State of Design Tools: An Unscientific Survey](https://www.subtraction.com/2015/05/07/the-state-of-design-tools/)” - L'auteur indique: 
 
@@ -30,7 +31,7 @@ On peut distinguer différentes classes d'outil, répondant à ces modes de trav
 - Outils classiques de graphisme (*Photoshop, Illustrator, InDesign, Keynote, Powerpoint*...)
 - Outils de wireframing: *UXPin, Balsamiq, Axure, Proto.io* ...
 - Outils de design d'interface: *Sketch, Figma, Adobe XD* ...
-- Outils de prototypage: *Just in Mind, Axure, Flinto, Origami* ...
+- Outils de prototypage: *Just in Mind, Flinto, Origami* ...
 - Outils d'animation: *After Effects, Principle, Framer* ...
 
 #### Outils de Wireframing
