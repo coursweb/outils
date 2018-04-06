@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Versionnement de code
-permalink: /outils/versionnement/
+title: Gestion de versions
+permalink: /outils/gestion-de-versions/
 ---
 
-Le versionnement permet de garder et de remonter à des versions antérieures d’un projet, et même de fusionner des changements apportés par plusieurs collaborateurs sur un même fichiers.
+La **gestion de versions** (ou versionnage, en anglais: version control) permet de maintenir l'ensemble des versions d’un projet, de remonter à des versions antérieures, et même de fusionner des changements apportés par plusieurs collaborateurs sur un même fichier.
 
-Des utilitaires comme **DropBox** proposent une forme de versionnement simple, l'historique d'un fichier modifié étant consultable dans l'interface web.
+Des utilitaires comme **DropBox** proposent une forme de versionnage simple, l'historique d'un fichier modifié étant consultable dans l'interface web.
 
-## Le versionnement dans le domaine du code: Git
+## Gestion de versions dans le domaine du code: Git
 
-Il existe des outils de versionnement plus puissants et précis, permettant de faire toutes sortes d'opérations de comparaison et de fusion de fichiers: c'est le cas de **Git**, un système de versionnement devenu très populaire, dans le domaine du développement logiciel.
+Il existe des outils de versionnage plus puissants et précis, permettant de faire toutes sortes d'opérations de comparaison et de fusion de fichiers: c'est le cas de **Git**, un système de versionnage devenu très populaire, dans le domaine du développement logiciel.
 
-Interfaces graphiques pour le versionnement avec Git:
+Interfaces graphiques pour le versionnage avec Git:
 
 - [GitHub Desktop](https://desktop.github.com/), une interface Git facile d'utilisation
 - [SourceTree](https://www.sourcetreeapp.com/), une interface plus avancée
@@ -21,11 +21,11 @@ Cependant, un système comme Git est optimisé pour travailler avec des fichiers
 
 Voir [la documentation pour utiliser Git](../../git/)
 
-## Systèmes de versionnement pour fichiers graphiques
+## Systèmes de versionnage pour fichiers graphiques
 
 Un produit nommé **[Pixelapse](http://pixelapse.com/)** a cherché à combler cette lacune, en offrant un outil de versionnement pour les fichiers graphiques. Développé dès 2011 et lancé en 2013 par deux designers, [Min Ming Lo](https://twitter.com/lominming) et Shravan Reddy, leur startup est rachetée en 2015 par **Dropbox**, et le développement de Pixelapse prend fin. L'acquisition de ce produit aurait permis des améliorations du côté de Dropbox: *design previews*, *comments*, *annotations*.
 
-En juillet 2017, une nouvelle application dédiée au versionnement des fichiers graphiques est dévoilée : **[Abstract](https://www.goabstract.com/)**. L'équipe fondatrice de cette startup basée à San Francisco se compose de [Joshua Brewer](https://twitter.com/jbrewer), [Kevin Smith](http://kevinsmith.cc/) et [Frank Chimero](https://frankchimero.com/). 
+En juillet 2017, une nouvelle application dédiée au versionnage de fichiers graphiques est dévoilée : **[Abstract](https://www.goabstract.com/)**. L'équipe fondatrice de cette startup basée à San Francisco se compose de [Joshua Brewer](https://twitter.com/jbrewer), [Kevin Smith](http://kevinsmith.cc/) et [Frank Chimero](https://frankchimero.com/). Le format de fichier supporté est Sketch (état: début 2018).
 
 ![Abstract](/cours-outils/img/abstract-interface.png)
 
@@ -35,7 +35,7 @@ Voici comment ils décrivent le point de départ:
 
 ## Ressources 
 
-Quelques lectures sur le versionnement de ressources graphiques:
+Quelques lectures sur le versionnage de ressources graphiques:
 
 <div class="cards"></div>
 
