@@ -56,7 +56,7 @@ Une autre approche consiste à créer les visuels dans un outil de design (Photo
 
 #### Outils de dessin vectoriel orientés design d'interfaces
 
-*Sketch*, publié en 2010 par Bohemian Software, est une application de design d’interface très populaire actuellement. Sketch est développé uniquement pour Mac OSX, par une petite équipe de développement basée aux Pays-Bas. Bohemian Software propose également une application pour iOS, *Sketch Mirror*, visant à prévisualiser les créations sur iPhone ou iPad.
+*Sketch*, publié en 2010 par Bohemian Software, est une application de design d’interface très populaire actuellement. Sketch est développé uniquement pour Mac OS, par une petite équipe de développement basée aux Pays-Bas. Bohemian Software propose également une application pour iOS, *Sketch Mirror*, visant à prévisualiser les créations sur iPhone ou iPad.
 
 ![Sketch avec prévisualistion iOS](/cours-outils/img/sketch-mirror.jpg)
 
@@ -74,9 +74,9 @@ Ce nouveau type outils permet de construire une maquette interactive avec simula
 
 Ces outils visent également à faciliter la collaboration et la discussion, via leurs fonctions de partage, de commentaires et annotations. 
 
-**InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et va même développer "Craft", une série d'extensions apportant de nouvelles fonctionalités à Sketch. 
+**InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et met à disposition "Craft", une série d'extensions apportant de nouvelles fonctionalités à Sketch. 
 
-Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision annonce en fin 2017 la sortie de l'application **InVision Studio** (pour janvier 2018).
+Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision annonce en fin 2017 la sortie de l'application **InVision Studio** (prévue pour 2018).
 
 ![Un prototype d'application mobile présenté avec InVision](/cours-outils/img/prototyping/invision-demo.jpg)
 
