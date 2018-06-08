@@ -13,7 +13,7 @@ L'éditeur de code est un outil fondamental pour les métiers du web. Il existe 
 
 ![Quelques éditeurs de code...](/cours-outils/img/code-editors.jpg)
 
-* *[TextWrangler](http://www.barebones.com/products/TextWrangler/)* - éditeur gratuit 
+* *[CotEditor](https://coteditor.com/)* - un éditeur simple, gratuit et open-source. Disponible pour MacOS uniquement.
 * *[Sublime Text](https://www.sublimetext.com/)* - éditeur gratuit, le plus populaire en ce moment. Il existe [un grand nombre d'extensions](https://packagecontrol.io/) pour étendre ses fonctionalités. 
 * *[Atom](https://atom.io/)* - éditeur gratuit et open source, très similaire à Sublime Text. Il existe également [des extensions](https://atom.io/packages).
 * *[Brackets](http://brackets.io/)* - éditeur gratuit et open source, produit par Adobe.
