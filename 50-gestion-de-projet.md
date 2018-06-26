@@ -12,3 +12,8 @@ permalink: /outils/gestion-de-projet/
 - Basecamp : permet de communiquer et partager des fichiers.
 - Etherpad : léger et facile d’utilisation, bloc-notes en ligne, sans login.
 
+## Outils de communication
+
+- Slack
+- HipChat
+- [Zulip](https://zulip.com/) - solution Open Source
