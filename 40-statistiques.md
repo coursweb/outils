@@ -16,6 +16,7 @@ permalink: /outils/statistiques/
 - *[Google Webmaster Tools](https://www.google.com/webmasters/tools/)*: Service Google qui, pour un site donné montrera les erreurs de formatage, les liens cassés, les doublons… Bref, l'état de santé d'un site selon Google.
 - *[Google Analytics](https://www.google.com/analytics/)*: un outil de Google qui permet de collecter des données d’utilisation pour un site (temps de visite, fréquence des visites, actions effectuées…)
 - *[Piwik](https://piwik.org/)*: semblable à Google Analytics, mais c'est un logiciel Open Source, basé sur PHP et MySQL. Permet de mieux respecter les données privées des utilisateurs.
+- *[Fathom](https://usefathom.com/)*: un outil open source, respectueux des données.
 - *[Mixpanel](https://mixpanel.com/)*: permet d'analyser de manière très précise les actions effectuées par les visiteurs d'un site.
 - *[Heap](https://heapanalytics.com/)*: outil d'analytics avancé, qui enregistre en détail toutes les actions effectuées par les visiteurs d'un site.
 
