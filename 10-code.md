@@ -32,3 +32,7 @@ Dans Safari, il est nécessaire d'activer ces outils dans les préférences (sou
 Afin de pouvoir tester des sites sous Internet Explorer et Edge, Microsoft propose [des machines virtuelles Windows](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) incluant ce navigateur (de IE8 à IE11 et Edge).
 
 
+## Utiliser un éditeur de code
+
+Exemples de rechercher-remplacer sur un document.
+

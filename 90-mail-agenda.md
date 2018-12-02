@@ -23,11 +23,27 @@ Le terrain des logiciels email est très compétitif, quelques exemples de produ
 - ***.Mail app***: [concept](https://web.archive.org/web/20130502154729/http://www.vanschneider.com/work/mail/) lancé en 2012 par Tobias van Schneider, resté à l'état de projet.
 - ***MailPilot***: projet lancé [sur Kickstarter](https://www.kickstarter.com/projects/1380180715/mail-pilot-email-reimagined) en 2012, sans nouvelles depuis 2015...
 
+### Services de migration:
+
+Pour migrer une grande boîte mail d'un service vers un autre, il existe des outils de migration:
+
+* https://www.migrate-mail.com : Audriga e-mail migration, 12 EUR par migration.
+* 
+
 ## Gestion d'agenda:
 
 À documenter...
 
 Fonctionalité d'agenda sur serveur: Apple. [Google Agenda](https://fr.wikipedia.org/wiki/Google_Agenda). Microsoft. Services indépendants basés sur [OwnCloud](https://owncloud.org/) (standard CalDAV).
+
+Services de mail et d'agenda professionnels:
+
+* [G Suite](https://gsuite.google.com/pricing.html) (anciennement Google Apps). Dès 5$ / mois / utilisateur.
+* Office 365, Outlook. Suite de produits Microsoft.
+
+Le logiciel OwnCloud inclut une fonction calendrier. OwnCloud est un outil open-source, il existe un grand nombre de fournisseurs.
+
+Il existe de nombreux services proposant des fonctions de calendrier pour des équipes, notamment [Asana](https://asana.com), [Teamweek](https://teamweek.com/), [Teamup](https://www.teamup.com/), [Trello](https://trello.com)...
 
 ## Gestion de contacts:
 

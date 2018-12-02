@@ -10,12 +10,12 @@ Voici une liste de services permettant de stocker des fichiers en ligne et de le
 
 Le site [TechRadar](https://www.techradar.com/news/the-best-cloud-storage) recommande en 2018 les produits suivants:
 
-* Dropbox. Compte gratuit: 2GB.
-* Google Drive. Compte gratuit: 15GB.
-* [Mega](https://mega.nz/). Compte gratuit: 15GB ou 50GB.
-* OneDrive (Microsoft). Compte gratuit: 5GB.
-* iCloud (Apple). Compte gratuit: 5GB.
+* [Dropbox](https://www.dropbox.com). Compte gratuit: 2GB.
+* [iCloud](https://www.icloud.com/) (Apple). Compte gratuit: 5GB.
+* [OneDrive](https://onedrive.live.com/) (Microsoft). Compte gratuit: 5GB.
 * [Box](https://www.box.com). Compte gratuit: 10GB.
+* [Google Drive](https://www.google.com/drive/). Compte gratuit: 15GB.
+* [Mega](https://mega.nz/). Compte gratuit: 15GB ou 50GB.
 
 Le site [cloudwards](https://www.cloudwards.net/top-10-secure-dropbox-alternatives/) présente quelques autres services:
 
