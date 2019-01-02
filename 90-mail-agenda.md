@@ -21,14 +21,8 @@ Le terrain des logiciels email est très compétitif, quelques exemples de produ
 - ***[Sparrow](https://en.wikipedia.org/wiki/Sparrow_(email_client))***: client OSX et iOS lancé en 2011 sur le AppStore, racheté en 2012 par Google, discontinué.
 - ***Mailbox***: acquis par Dropbox en 2013, [discontinué](https://blogs.dropbox.com/dropbox/2015/12/saying-goodbye-to-carousel-and-mailbox/) en 2016.
 - ***.Mail app***: [concept](https://web.archive.org/web/20130502154729/http://www.vanschneider.com/work/mail/) lancé en 2012 par Tobias van Schneider, resté à l'état de projet.
-- ***MailPilot***: projet lancé [sur Kickstarter](https://www.kickstarter.com/projects/1380180715/mail-pilot-email-reimagined) en 2012, sans nouvelles depuis 2015...
+- ***MailPilot***: projet lancé [sur Kickstarter](https://www.kickstarter.com/projects/1380180715/mail-pilot-email-reimagined) en 2012, sans nouvelles depuis 2015. [Réapparu](https://mailpilothq.com/) en 2018.
 
-### Services de migration:
-
-Pour migrer une grande boîte mail d'un service vers un autre, il existe des outils de migration:
-
-* https://www.migrate-mail.com : Audriga e-mail migration, 12 EUR par migration.
-* 
 
 ## Gestion d'agenda:
 
