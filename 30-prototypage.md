@@ -74,22 +74,21 @@ Ce nouveau type outils permet de construire une maquette interactive avec simula
 
 Ces outils visent également à faciliter la collaboration et la discussion, via leurs fonctions de partage, de commentaires et annotations. 
 
-**InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et met à disposition "Craft", une série d'extensions apportant de nouvelles fonctionnalités à Sketch. 
-
-Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision annonce en fin 2017 la sortie de l'application **InVision Studio** (prévue pour 2018).
+**InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et met à disposition "Craft", un extension apportant de nouvelles fonctionnalités à Sketch. 
 
 ![Un prototype d'application mobile présenté avec InVision](/cours-outils/img/prototyping/invision-demo.jpg)
+
+Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision a sorti en 2018 **InVision Studio**, une application Desktop de prototypage pour MacOS.
+
+Les designers travaillant avec InVision peuvent désormais utiliser l'un de ces trois logiciels: 
+
+* Photoshop (avec l'extension Craft).
+* Sketch (avec l'extension Craft).
+* InVision Studio (la syncronisation y est intégrée).
 
 **Marvel** - Marvel est lancé en 2013. C'est une petite startup basée à Londres, comptant en 2016 une vingtaine d'employés. Construit initialement autour de DropBox, Marvel ajoute en 2015 le support des fichiers Sketch.
 
 **Particularités:**
-
-Ces deux applications permettent la synchronisation d'images (PNG ou JPEG) depuis DropBox (ou GoogleDrive).
-
-Les deux applications proposent également un excellent support pour les fichiers **Sketch**:
-
-- **Marvel** propose un plugin pour Sketch, qui permet de synchroniser des *artboards* depuis l'application.
-- **InVision** peut synchroniser les fichiers Sketch depuis DropBox, et va créer un écran pour chaque *artboard*.
 
 Tous deux proposent des **applications mobiles**:
 
