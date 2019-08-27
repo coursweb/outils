@@ -18,8 +18,8 @@ Le site [The Wirecutter](https://thewirecutter.com/reviews/best-online-backup-se
 
 Ces services offrent des applications desktop et des extensions de navigateur, pour enregistrer et utiliser facilement des mots de passe:
 
-- [LastPass](https://lastpass.com/)
 - [Dashlane](https://www.dashlane.com/)
+- [LastPass](https://lastpass.com/)
 - [1Password](https://1password.com/)
 - [RoboForm](http://www.roboform.com/)
 - [Keeper](https://keepersecurity.com)
