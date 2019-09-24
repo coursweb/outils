@@ -36,7 +36,7 @@ On peut distinguer différentes classes d'outil, répondant à ces modes de trav
 
 #### Outils de Wireframing
 
-*UXPin*, *Balsamiq*, *Axure*, *Proto.io* 
+*UXPin*, *Balsamiq*, *Axure*, *Proto.io*, *wireframe.cc*, *mockflow.com* ...
 
 Ces outils servent à produire des "wireframes", càd des représentatons centrées sur la navigation et la répartition de blocs de contenus, sans interférer avec le design graphique. Il est possible de faire cela avec un outil de dessin vectoriel (p.ex. Illustrator), mais il existe des outils spécifiquement dédiés. 
 
@@ -48,19 +48,23 @@ Il est aussi courant de produire des wireframes sur papier, dans un carnet de no
 
 *Axure*, *Just in Mind*, *Flinto*...
 
-À la différence des "wireframes", ces outils servent à produire des maquettes visuelles proches de l'expérience finale, l'écriture de code en moins. On distingue le prototype de la maquette (*mockup*, créé dans un outil comme Photoshop): le prototype vise à simuler non seulement le graphisme, mais aussi le *comportement* du produit final. Un outil de prototypage permettra de définir les *interactions* et les *transitions* entre les différents écrans du site (ou de l'application).
+Par *prototypage*, on désigne une phase de travail où est produit un **modèle visuel**, présentant l'aspect graphique, la mise en page, et certaines fonctionnalités du site. À la différence des "wireframes", ces outils servent à produire des maquettes visuelles proches de l'expérience finale. 
+
+On distingue le **prototype** de la **maquette** statique (*mockup* ou *static comp*, créé p.ex. dans un outil comme Photoshop). Le prototype vise à simuler non seulement le graphisme, mais aussi le *comportement* du produit final. Un outil de prototypage permettra de définir les *interactions* et les *transitions* entre les différents écrans du site (ou de l'application).
 
 Certains outils proposent d'inclure tout cela dans une application.
 
-Une autre approche consiste à créer les visuels dans un outil de design (Photoshop, Illustrator, Sketch...), puis de définir les interactions et construire un prototype avec des outils comme *InVision* ou *Marvel* (voir ci-dessous).
+Une autre approche consiste à créer **les visuels** dans un outil de design (Photoshop, Illustrator, Sketch...), puis de définir **les interactions** et de construire un prototype avec un outil comme *InVision* ou *Marvel* (voir ci-dessous).
+
+Enfin, le prototypage peut se faire en html/css, pour produire rapidement une version approximiative et simplifiée du site. Un outil comme Pattern Lab peut faciliter ce processus.
 
 #### Outils de dessin vectoriel orientés design d'interfaces
 
-*Sketch*, publié en 2010 par Bohemian Software, est une application de design d’interface très populaire actuellement. Sketch est développé uniquement pour Mac OS, par une petite équipe de développement basée aux Pays-Bas. Bohemian Software propose également une application pour iOS, *Sketch Mirror*, visant à prévisualiser les créations sur iPhone ou iPad.
+*Sketch*, publié en 2010 par Bohemian Software, est une application de design d’interface très populaire actuellement. Sketch est développé uniquement pour Mac OS, par une petite équipe de développement basée aux Pays-Bas. Bohemian Software propose également une application pour iOS, *Sketch Mirror*, permettant de prévisualiser les créations sur iPhone ou iPad.
 
 ![Sketch avec prévisualistion iOS](/cours-outils/img/sketch-mirror.jpg)
 
-La situation des outils de design d'interface est assez particulière: Adobe a stoppé en 2010 le développement de *Fireworks*, utilisé par de nombreux webdesigners pour la création de visuels. En 2011, Adobe lance la suite de logiciels *Edge* (*Edge Animate, Edge Inspect, Edge Reflow, Edge Code*), afin de mieux répondre aux besoins des webdesigners (lire à ce sujet [cet article de Aaron Shekey](https://www.aaronshekey.com/work/adobe/)). 
+La situation des outils de design d'interface est assez particulière: Adobe a stoppé en 2010 le développement de *Fireworks*, utilisé par de nombreux webdesigners pour la création de maquettes statiques. En 2011, Adobe lance la suite de logiciels *Edge* (*Edge Animate, Edge Inspect, Edge Reflow, Edge Code*), afin de mieux répondre aux besoins des webdesigners (lire à ce sujet [cet article de Aaron Shekey](https://www.aaronshekey.com/work/adobe/)). 
 
 ![Palmarès des outils de design d'interface, sondage effectué par Khoi Vinh en 2015](/cours-outils/img/interface-design-tools.png)
 
