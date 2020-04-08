@@ -8,7 +8,7 @@ permalink: /outils/gestion-de-projet/
 
 Outils pour le *partage de fichiers et de documents*:
 
-- DropBox : partage de fichiers.
+- [Dropbox](https://www.dropbox.com/) : partage de fichiers.
 - [Google Drive](https://www.google.com/drive/) : partage de fichiers et création de documents (comparables à Word ou Excel).
 - Evernote : permet de créer des carnets de notes partagés.
 - Trello : permet de constituer des listes de tâches.
@@ -30,7 +30,6 @@ Applications de communication pour les équipes:
 - [Slack](https://slack.com/) - outil dominant dans ce domaine
 - [Zulip](https://zulip.com/) - solution Open Source
 - [Twist](https://twist.com/) - par les créateurs de Todoist
-- Hipchat
 
 Un outil un peu à part:
 
