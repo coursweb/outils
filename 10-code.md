@@ -36,7 +36,7 @@ Afin de pouvoir tester des sites sous Internet Explorer et Edge, Microsoft propo
 
 Exemples de rechercher-remplacer sur un document.
 
-Un outil de développement: Atom
+## Un outil de développement: Atom
 
 - Configurer Atom pour un projet web: 
 - configurer la synchro FTP
