@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Gestion de versions
-permalink: /outils/gestion-de-versions/
 ---
 
 La **gestion de versions** (ou versionnage, en anglais: version control) permet de maintenir l'ensemble des versions d’un projet, de remonter à des versions antérieures, et même de fusionner des changements apportés par plusieurs collaborateurs sur un même fichier.
@@ -27,7 +26,7 @@ Un produit nommé **[Pixelapse](http://pixelapse.com/)** a cherché à combler c
 
 En juillet 2017, une nouvelle application dédiée au versionnage de fichiers graphiques est dévoilée : **[Abstract](https://www.goabstract.com/)**. L'équipe fondatrice de cette startup basée à San Francisco se compose de [Joshua Brewer](https://twitter.com/jbrewer), [Kevin Smith](http://kevinsmith.cc/) et [Frank Chimero](https://frankchimero.com/). Le format de fichier supporté est Sketch (état: début 2018).
 
-![Abstract](/cours-outils/img/abstract-interface.png)
+![Abstract](/img/abstract-interface.png)
 
 Voici comment ils décrivent le point de départ:
 

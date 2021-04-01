@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Atom
-permalink: /outils/atom/
 ---
 
 # Un outil de développement: Atom

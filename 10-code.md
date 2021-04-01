@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Editeurs de code
-permalink: /outils/code/
 ---
 
 L'éditeur de code est un outil fondamental pour les métiers du web. Il existe un grand nombre d'éditeurs de code, ayant chacun ses particularités. Parmi les fonctionalités partagées par tous les éditeurs de code: 
@@ -11,7 +10,7 @@ L'éditeur de code est un outil fondamental pour les métiers du web. Il existe 
 - le  « rechercher remplacer » à l'échelle d'un projet ou dossier.
 - le « rechercher remplacer » avec des « expressions régulières ».
 
-![Quelques éditeurs de code...](/cours-outils/img/code-editors.jpg)
+![Quelques éditeurs de code...](img/code-editors.jpg)
 
 * *[CotEditor](https://coteditor.com/)* - un éditeur simple, gratuit et open-source. Disponible pour MacOS uniquement.
 * *[Sublime Text](https://www.sublimetext.com/)* - éditeur gratuit, le plus populaire en ce moment. Il existe [un grand nombre d'extensions](https://packagecontrol.io/) pour étendre ses fonctionalités. 
@@ -25,7 +24,7 @@ L'éditeur de code est un outil fondamental pour les métiers du web. Il existe 
 
 **L'inspecteur du navigateur** est un outil indispensable pour le développement d'interfaces web. Il permet l’analyse des éléments de mise en page d’un site, son chargement, son poids etc. Il est disponible dans les navigateurs majeurs (Firefox, Chrome, Safari). À noter que Firefox propose une "[version développeur](https://www.mozilla.org/fr/firefox/developer/)".
 
-![L'inspecteur de Firefox permet une vue en 3D de la structure d'une page web](/cours-outils/img/FF-devtools-3d.jpg)
+![L'inspecteur de Firefox permet une vue en 3D de la structure d'une page web](/img/FF-devtools-3d.jpg)
 
 Dans Safari, il est nécessaire d'activer ces outils dans les préférences (sous *Avancées > Afficher le menu Développement...*).
 

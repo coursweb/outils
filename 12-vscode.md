@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Visual Studio Code
-permalink: /outils/vscode/
 ---
 
 Comment visualiser votre site avec LiveServer sur un mobile (connecté sur le même réseau wifi).
