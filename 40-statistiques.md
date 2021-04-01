@@ -13,11 +13,12 @@ permalink: /outils/statistiques/
 
 ![Statistiques StatCounter: navigateurs utilisés en Suisse entre 2010 et 2015](/cours-outils/img/StatCounter-browsers.png)
 
-- *[Google Webmaster Tools](https://www.google.com/webmasters/tools/)*: Service Google qui, pour un site donné montrera les erreurs de formatage, les liens cassés, les doublons… Bref, l'état de santé d'un site selon Google.
+- *[Google Search Console](https://search.google.com/search-console)*: un Service Google qui, pour un site donné, montrera les erreurs de formatage, les liens cassés, les doublons… Bref, l'état de santé d'un site selon Google.
 - *[Google Analytics](https://www.google.com/analytics/)*: un outil de Google qui permet de collecter des données d’utilisation pour un site (temps de visite, fréquence des visites, actions effectuées…)
-- *[Piwik](https://piwik.org/)*: semblable à Google Analytics, mais c'est un logiciel Open Source, basé sur PHP et MySQL. Permet de mieux respecter les données privées des utilisateurs.
-- *[Fathom](https://usefathom.com/)*: un outil open source, respectueux des données. Update: il y a aussi une version Pro (dès $14/mois).
+- *[Matomo](https://matomo.org/)*: semblable à Google Analytics, mais c'est un logiciel Open Source, à installer sur son propre serveur. Permet de mieux respecter les données privées des utilisateurs.
+- *[Fathom](https://usefathom.com/)*: un outil open-source, respectueux des données.
+- *[Plausible](https://plausible.io/)*: un autre outil open-source, respecteux des données.
 - *[Mixpanel](https://mixpanel.com/)*: permet d'analyser de manière très précise les actions effectuées par les visiteurs d'un site.
-- *[Heap](https://heapanalytics.com/)*: outil d'analytics avancé, qui enregistre en détail toutes les actions effectuées par les visiteurs d'un site.
+- *[Heap](https://heap.io/)*: outil d'analytics avancé, qui enregistre en détail toutes les actions effectuées par les visiteurs d'un site.
 
 Pour plus d'informations sur ces outils, lire: *[Tools That Help Inform Design Decisions](http://www.leemunroe.com/design-tracking-services/)*, par Lee Munroe (2015).
