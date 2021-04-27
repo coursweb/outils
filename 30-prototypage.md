@@ -62,15 +62,15 @@ Enfin, le prototypage peut se faire en html/css, pour produire rapidement une ve
 
 *Sketch*, publié en 2010 par Bohemian Software, est une application de design d’interface très populaire actuellement. Sketch est développé uniquement pour Mac OS, par une petite équipe de développement basée aux Pays-Bas. Bohemian Software propose également une application pour iOS, *Sketch Mirror*, permettant de prévisualiser les créations sur iPhone ou iPad.
 
-![Sketch avec prévisualistion iOS](/img/sketch-mirror.jpg)
+![Sketch avec prévisualistion iOS](img/sketch-mirror.jpg)
 
 La situation des outils de design d'interface est assez particulière: Adobe a stoppé en 2010 le développement de *Fireworks*, utilisé par de nombreux webdesigners pour la création de maquettes statiques. En 2011, Adobe lance la suite de logiciels *Edge* (*Edge Animate, Edge Inspect, Edge Reflow, Edge Code*), afin de mieux répondre aux besoins des webdesigners (lire à ce sujet [cet article de Aaron Shekey](https://www.aaronshekey.com/work/adobe/)). 
 
-![Palmarès des outils de design d'interface, sondage effectué par Khoi Vinh en 2015](/img/interface-design-tools.png)
+![Palmarès des outils de design d'interface, sondage effectué par Khoi Vinh en 2015](img/interface-design-tools.png)
 
 Le développement de la suite Adobe Edge est stoppé en 2015, certains développements étant intégrés dans *Dreamweaver* et *Muse*. En 2016, Adobe dévoile un nouveau logiciel: *Adobe Experience Design* (Adobe XD). C'est visiblement une tentative de contrer le succès de Sketch, et l'accueil des designers UX est [relativement](http://outsmartlabs.com/blog/sketch-v-s-adobe-xd/) [mitigé](http://scottjensen.design/2016/04/what-i-think-of-adobe-xd/).
 
-![Interface de Adobe XD](/img/adobeXD.png)
+![Interface de Adobe XD](img/adobeXD.png)
 
 #### Outils de présentation et communication
 
@@ -80,7 +80,7 @@ Ces outils visent également à faciliter la collaboration et la discussion, via
 
 **InVision** - InVision est une entreprise basée à New York. Lancée en 2011, l'entreprise a levé plus de 80 millions de dollars d'investissements. En novembre 2014, InVision annonce [le support du format Sketch](http://blog.invisionapp.com/sketch-meet-rapid-hi-fi-prototyping/), et met à disposition "Craft", un extension apportant de nouvelles fonctionnalités à Sketch. 
 
-![Un prototype d'application mobile présenté avec InVision](/img/prototyping/invision-demo.jpg)
+![Un prototype d'application mobile présenté avec InVision](img/prototyping/invision-demo.jpg)
 
 Après avoir fait l'acquisition de 2016 de *Macaw*, logiciel de prototypage visuel (voir plus bas), InVision a sorti en 2018 **InVision Studio**, une application Desktop de prototypage pour MacOS.
 
@@ -106,11 +106,11 @@ Applications de prototypage utilisant un principe de "patches" (*node based desi
 - *[Origami](http://origami.design/)* - outil développé par Facebook, permet de visualiser sur iOS (avec une application, *Origami Live*).
 - *[Avocado](https://github.com/ideo/avocado/)* - "an open source interaction design toolbox, built on top of Facebook's Origami framework". C'est un outil créé par la fameuse agence [IDEO](https://www.ideo.com/eu). Ne semble plus maintenu depuis 2015.
 
-![Interface d'Origami Studio](/img/Origami-Interface.jpg)
+![Interface d'Origami Studio](img/Origami-Interface.jpg)
 
 Autre logiciel atypique: *[Framer](https://framer.com/)* - logiciel créé par [Koen Bok](http://koenbok.com/), fondateur de l'agence néerlandaise Sofa, acquise par Facebook en 2011. Ce logiciel propose une vue en code (en CoffeeScript), permettant de paramétrer des prototypes animés.
 
-![Interface de Framer Studio](/img/framer-studio.png)
+![Interface de Framer Studio](img/framer-studio.png)
 
 D'autres logiciels apparus récemment, qui mettent l'accent sur l'animation, sont [Principle](http://principleformac.com/) (sorti en 2015) et [Kite Compositor](https://kiteapp.co/) (2017).
 
@@ -135,7 +135,7 @@ La profession du design web étant en rapide évolution, le marché des outils d
 - Achat par Google en 2015. Annonce la fin du développement en 2016.
 - En 2016, Google annonce une nouvelle application, *Stage*: "Stage is being brought to you by the teams behind Pixate and Form."
 
-![Pixate](/img/pixate.png)
+![Pixate](img/pixate.png)
 
 **Macaw** (2014)
 
@@ -143,10 +143,10 @@ La profession du design web étant en rapide évolution, le marché des outils d
 - Campagne [Kickstarter](https://www.kickstarter.com/projects/macaw/macaw-the-code-savvy-web-design-tool) en 2013 qui a levé $275,929.
 - Achat par InVision en 2016, le développement s'achève.
 
-![Aperçu de Macaw Scarlet, qui ne sera jamais publié...](/img/macaw-scarlet.png)
+![Aperçu de Macaw Scarlet, qui ne sera jamais publié...](img/macaw-scarlet.png)
 
 ### Le design selon Google...
 
 Google a commencé à investir d'importantes ressources dans le domaine du design, avec notamment le système "Material Design" annoncé en 2014, la plateforme [Google Design](https://design.google.com/), les [conférences SPAN consacrées au design](https://design.google.com/events/span/), le site de référence [material.io](https://material.io/), et [l'annonce en 2016](https://design.google.com/articles/design-is-never-done/) d'une série d'outils: [Stage](https://material.io/stage/) ("define dynamic interfaces with interactive motion") et [Gallery](https://material.io/gallery/) ("design collaboration, simplified").
 
-![Stage et Gallery, deux outils de design annoncés par Google en 2016](/img/google-design-tools-wide.jpg)
+![Stage et Gallery, deux outils de design annoncés par Google en 2016](img/google-design-tools-wide.jpg)
