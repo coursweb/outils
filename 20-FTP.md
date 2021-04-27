@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Clients FTP
+permalink: ftp.html
 ---
 
 Le **FTP** est un protocole web (File Transfer Protocol) permettant d’envoyer des fichiers vers le serveur. C'est un très ancien protocole, remontant à [1971](https://tools.ietf.org/html/rfc265). 

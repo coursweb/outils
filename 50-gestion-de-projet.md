@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gestion de projet & collaboration
+permalink: gestion-de-projet.html
 ---
 
 ## Partage de fichiers

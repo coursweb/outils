@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stockage de données
-permalink: /outils/cloudstorage/
+permalink: cloudstorage.html
 ---
 
 ## Stockage de donnees

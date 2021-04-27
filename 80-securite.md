@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sécurité
+permalink: securite.html
 ---
 
 

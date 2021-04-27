@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gestion de versions
+permalink: versions.html
 ---
 
 La **gestion de versions** (ou versionnage, en anglais: version control) permet de maintenir l'ensemble des versions d’un projet, de remonter à des versions antérieures, et même de fusionner des changements apportés par plusieurs collaborateurs sur un même fichier.

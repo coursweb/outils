@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Editeurs de code
+permalink: code.html
 ---
 
 L'éditeur de code est un outil fondamental pour les métiers du web. Il existe un grand nombre d'éditeurs de code, ayant chacun ses particularités. Parmi les fonctionalités partagées par tous les éditeurs de code: 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Prototypage
+permalink: prototypage.html
 ---
 
 Prototypage, maquettage, wireframing

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mail, contacts, agenda
-permalink: /outils/mail/
+permalink: mail.html
 ---
 
 ## Clients email:

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Statistiques & outils d'analyse
+permalink: statistiques.html
 ---
 
 
