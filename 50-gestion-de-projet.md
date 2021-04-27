@@ -31,11 +31,7 @@ Applications de communication pour les équipes:
 - [Zulip](https://zulip.com/) - solution Open Source
 - [Twist](https://twist.com/) - par les créateurs de Todoist
 
-Un outil un peu à part:
-
-- [Wake](https://wake.com) - un outil permettant de partager des écrans, s'intégrant aux application Sketch, Photoshop et Illustrator. Acquis en 2018 par InVision.
-
-## Utilitaires divers
+## Utilitaires divers
 
 - Outils de time-tracking
 - Comptabilité et gestion de projet
