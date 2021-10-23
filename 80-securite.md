@@ -21,10 +21,12 @@ Ces services offrent des applications desktop et des extensions de navigateur, p
 - [Dashlane](https://www.dashlane.com/)
 - [LastPass](https://lastpass.com/)
 - [1Password](https://1password.com/)
-- [Bitwarden](https://bitwarden.com)
+- [Bitwarden](https://bitwarden.com) (open-source)
 - [Zoho Vault](https://www.zoho.com/vault/)
 - [RoboForm](http://www.roboform.com/)
 - [Keeper](https://keepersecurity.com)
+
+#### L'écosystème KeePass
 
 Existe-t-il des solutions en logiciel libre? Et qui permettent de synchroniser les mots de passe entre ordinateur et appareil mobile? Oui! Le logiciel le plus connu est sans doute KeePass. Il existe des clients pour diverses plateformes:
 
@@ -35,7 +37,7 @@ Existe-t-il des solutions en logiciel libre? Et qui permettent de synchroniser l
 - Pour Android:  [KeePass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
 - Article Wikipédia: [KeePass](https://fr.wikipedia.org/wiki/KeePass)
 
-Lire: 
+#### Lire: 
 
 - [Quel gestionnaire de mots de passe choisir ?](http://www.panoptinet.com/cybersecurite-decryptee/test-dashlane-lastpass-keepass-quel-logiciel-choisir/) (2014)
 - [Head-to-head evaluation of six password managers](https://medium.com/@QuantopianCyber/head-to-head-evaluation-of-five-password-managers-8faa4851c767) (2018)
