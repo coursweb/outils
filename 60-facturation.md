@@ -17,7 +17,7 @@ L'environnement du web peut parfois se montrer chronophage et nuire à la facult
 
 Des outils ont été développés pour aider les personnes créatives à protéger leur temps contre ces nuisances.
 
-Un exemple est le logiciel [SelfControl](https://selfcontrolapp.com/), créé par l'ariste Steve Lambert.
+Un exemple est le logiciel [SelfControl](https://selfcontrolapp.com/), créé par l'artiste [Steve Lambert](https://visitsteve.com/).
 
 ![](img/selfcontrol-app.png)
 
