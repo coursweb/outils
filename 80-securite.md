@@ -16,7 +16,10 @@ Le site [The Wirecutter](https://thewirecutter.com/reviews/best-online-backup-se
 
 ### Gestionnaires de mots de passe
 
-Ces services offrent des applications desktop et des extensions de navigateur, pour enregistrer et utiliser facilement des mots de passe:
+Choisir un gestionnaire de mots de passe est une décision à ne pas prendre à la légère: vous allez confier à cette application des centaines de mots de passe.
+
+Ces services offrent des applications desktop et des extensions de navigateur, pour enregistrer et utiliser facilement des mots de passe.
+
 
 - [Dashlane](https://www.dashlane.com/)
 - [LastPass](https://lastpass.com/)
@@ -42,3 +45,5 @@ Existe-t-il des solutions en logiciel libre? Et qui permettent de synchroniser l
 - [Quel gestionnaire de mots de passe choisir ?](http://www.panoptinet.com/cybersecurite-decryptee/test-dashlane-lastpass-keepass-quel-logiciel-choisir/) (2014)
 - [Head-to-head evaluation of six password managers](https://medium.com/@QuantopianCyber/head-to-head-evaluation-of-five-password-managers-8faa4851c767) (2018)
 - [Utiliser Bitwarden, le gestionnaire de mots de passe gratuit et open source](https://lecrabeinfo.net/utiliser-bitwarden-gestionnaire-mots-de-passe-gratuit-et-open-source.html) (2019)
+
+Voir aussi: Bases en informatique > [Cybersécurité](https://cours-web.ch/informatique-base/cybersecurity.html)
