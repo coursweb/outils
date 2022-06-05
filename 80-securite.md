@@ -10,7 +10,7 @@ permalink: securite.html
 Afin d'être à l'abri d'une perte de données (panne de disque dur, perte d'ordinateur), il est recommandé d'avoir recours à un système de backup. Quelques services populaires:
 
 - [Time Machine](https://support.apple.com/fr-fr/HT201250) : intégré dans le système Mac OSX, permet le backup vers un disque externe.
-- [Backblaze](https://www.backblaze.com/) : service en ligne. Prix de 50$ par année, espace de stockage illimité.
+- [Backblaze](https://www.backblaze.com/) : service en ligne. Prix de 70$ par année, espace de stockage illimité.
 
 Le site [The Wirecutter](https://thewirecutter.com/reviews/best-online-backup-service/) offre [un comparatif intéressant](https://thewirecutter.com/reviews/best-online-backup-service/) de services de backup (et recommande actuellement Backblaze).
 
