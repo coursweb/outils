@@ -6,7 +6,7 @@ permalink: mail.html
 
 ## Clients email:
 
-Pour des précisions sur l'utilisation de clients email, des méthodes de gestion des emails, des infos sur les newsletters et mailing-listes, voir le chapitre ***[Divers > Email](/divers/email/)***.
+Pour des précisions sur l'utilisation de clients email, des méthodes de gestion des emails, des infos sur les newsletters et mailing-listes, voir le chapitre ***[Divers > Email](https://cours-web.ch/divers/email.html)***.
 
 - ***Mail***, par Apple
 - ***Outlook***, par Microsoft
