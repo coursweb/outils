@@ -34,9 +34,9 @@ Ces services offrent des applications desktop et des extensions de navigateur, p
 Existe-t-il des solutions en logiciel libre? Et qui permettent de synchroniser les mots de passe entre ordinateur et appareil mobile? Oui! Le logiciel le plus connu est sans doute KeePass. Il existe des clients pour diverses plateformes:
 
 - Un client MacOS: [MacPass](https://macpassapp.org)
-- Un autre client MacOS: [KeePassXC](https://keepassxc.org/)
+- Un client MacOS / Windows / Linux: [KeePassXC](https://keepassxc.org/)
 - Encore un client MacOS (aussi Linux, Windows): [KeeWeb](https://keeweb.info)
-- Pour iOS: [Strongbox](https://strongboxsafe.com) - [un comparatif](https://github.com/keeweb/keeweb/wiki/iOS)
+- Pour iOS et MacOS: [Strongbox](https://strongboxsafe.com) - [un comparatif](https://github.com/keeweb/keeweb/wiki/iOS)
 - Pour Android:  [KeePass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
 - Article Wikipédia: [KeePass](https://fr.wikipedia.org/wiki/KeePass)
 
