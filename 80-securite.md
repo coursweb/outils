@@ -23,6 +23,7 @@ Ces services offrent des applications desktop et des extensions de navigateur, p
 
 - [Dashlane](https://www.dashlane.com/)
 - [LastPass](https://lastpass.com/)
+- [Enpass](https://www.enpass.io/)
 - [1Password](https://1password.com/)
 - [Bitwarden](https://bitwarden.com) (open-source)
 - [Zoho Vault](https://www.zoho.com/vault/)
