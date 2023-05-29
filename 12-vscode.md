@@ -4,6 +4,36 @@ title: Visual Studio Code
 permalink: vscode.html
 ---
 
+## Raccourcis
+
+Quelques raccourcis essentiels (sur clavier Mac suisse): 
+
+- **Tab** : Indentation
+- **shift + Tab** : Indentation à l'arrière
+- **alt + Z** : Activer/Désactiver le retour automatique à la ligne.
+- **cmd + shift + 7** : Mise en commentaire du code sélectionné.
+
+- **cmd + F** : Rechercher (dans le document ouvert)
+- **cmd + shift + F** : Rechercher dans les fichiers
+- **cmd + shift + H** : Remplacer dans les fichiers
+
+- **cmd + P** : Permet d'atteindre un fichier dans l'espace de travail.
+- **cmd + shift + P** : Ouvre la *Palette de commandes*, qui permet d'exécuter diverses commandes (par exemple: *Mettre le document en forme*).
+
+- **cmd +** : Zoom avant
+- **cmd -** : Zoom arrière
+- **cmd + B** : Activer/Désactiver le sidebar
+
+## Extensions
+
+Quelques extensions utiles:
+
+- [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) : permet d'activer un serveur local, avec rafraichissement automatique des pages dans le navigateur. 
+- [LiveShare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) : extension fournie par Microsoft, qui permet de collaborer à plusieurs sur un document.
+
+
+## Divers
+
 Comment visualiser votre site avec LiveServer sur un mobile (connecté sur le même réseau wifi).
 
 Quand vous visualisez votre site, il aura une adresse comme ceci: http://127.0.0.1:5500/
