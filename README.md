@@ -2,7 +2,7 @@
 
 Support de cours programmation web
 
-En ligne sous: [http://cours-web.ch/](http://cours-web.ch/)
+En ligne sous: [https://cours-web.ch/outils](https://cours-web.ch/outils)
 
 ## À propos
 
