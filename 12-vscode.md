@@ -47,3 +47,11 @@ Cette adresse est locale à votre ordinateur, cela ne fonctionnera pas depuis un
 Sur le navigateur mobile, entrez cette IP avec http:// au début et :5500 à la fin, donc dans mon cas comme ceci: http://192.168.0.227:5500
 
 Vous pourrez visualiser votre site en développement
+
+## Modifier le settings.json
+
+Certains réglages de VS Code doivent être faits dans le fichier `settings.json`. Pour y accéder: 
+
+- lancer la **palette de commandes** avec `Affichage > Palette de commandes` ou `Maj+Cmd+P`.
+- choisir : `>Préférences: Ouvrir les paramètres de l'utilisateur (JSON)`.
+- cela ouvre un fichier de code dans lequel vous pouvez ajouter ou modifier les paramètres.
