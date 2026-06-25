@@ -10,15 +10,13 @@ Le **FTP** est un protocole web (File Transfer Protocol) permettant d’envoyer 
 
 Aujourd'hui, on préfère utiliser le protocole **SFTP**, offrant un transfer sécurisé. La transmission des codes d'accès est ainsi cryptée, ce qui évitera que votre mot de passe se fasse pirater.
 
-De nombreux clients FTP existent, mais ils partagent globalement les mêmes fonctionalités: [Interarchy](https://nolobe.com/interarchy/), [Transmit](https://panic.com/transmit/), [ForkLift](http://www.binarynights.com/forklift/)... Dans le cadre de ce cours, nous recommandons d'utilier **[Cyberduck](https://cyberduck.io/)**.
+Divers clients FTP existent, mais ils partagent globalement les mêmes fonctionalités: [Transmit](https://panic.com/transmit/), [ForkLift](http://www.binarynights.com/forklift/)... Dans le cadre de ce cours, nous recommandons d'utilier **[Cyberduck](https://cyberduck.io/)**.
 
 **[Cyberduck](https://cyberduck.io/)** est un gestionnaire FTP / SFTP gratuit et open-source, permettant de naviguer dans l'arborescence de votre serveur web, de créer des signets, et éditer (avec prudence) des fichiers directement sur le serveur. Cyberduck utilise le trousseau de MacOS pour conserver les mot de passe.
 
 Vous pouvez le télécharger sous [https://cyberduck.io/](https://cyberduck.io/). Attention à cliquer sur le bon lien de téléchargement!
 
 ![Page de téléchargement de Cyberduck](img/cyberduck-tutorial/cyberduck-download.jpg)
-
-À noter que certains éditeurs de code permettent de synchroniser directement les fichiers au moment de la sauvegarde (Coda, Espresso, Dreamweaver... ou Atom [avec des extensions](https://atom.io/packages/search?q=ftp)), ce qui vous évite de devoir passer par le client FTP.
 
 ## Utilisation de Cyberduck
 

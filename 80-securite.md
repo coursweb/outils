@@ -20,7 +20,7 @@ Choisir un gestionnaire de mots de passe est une décision à ne pas prendre à 
 
 Ces services offrent des applications desktop et des extensions de navigateur, pour enregistrer et utiliser facilement des mots de passe.
 
-
+- [ProtonPass](https://proton.me/pass)
 - [Dashlane](https://www.dashlane.com/)
 - [LastPass](https://lastpass.com/)
 - [Enpass](https://www.enpass.io/)
@@ -34,7 +34,6 @@ Ces services offrent des applications desktop et des extensions de navigateur, p
 
 Existe-t-il des solutions en logiciel libre? Et qui permettent de synchroniser les mots de passe entre ordinateur et appareil mobile? Oui! Le logiciel le plus connu est sans doute KeePass. Il existe des clients pour diverses plateformes:
 
-- Un client MacOS: [MacPass](https://macpassapp.org)
 - Un client MacOS / Windows / Linux: [KeePassXC](https://keepassxc.org/)
 - Encore un client MacOS (aussi Linux, Windows): [KeeWeb](https://keeweb.info)
 - Pour iOS et MacOS: [Strongbox](https://strongboxsafe.com) - [un comparatif](https://github.com/keeweb/keeweb/wiki/iOS)
