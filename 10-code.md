@@ -13,7 +13,7 @@ L'éditeur de code est un outil fondamental pour les métiers du web. Il existe 
 
 ![Quelques éditeurs de code...](img/code-editors.jpg)
 
-* *[Visual Studio Code](https://code.visualstudio.com/)* - éditeur de code gratuit produit par Microsoft, disponible pour Windows, Mac et Linux. Inclut le support pour le versionnement Git. Le site [VSCodeCanDoThat.com](https://vscodecandothat.com/) donne des informations utiles.
+* *[Visual Studio Code](https://code.visualstudio.com/)* - éditeur de code gratuit produit par Microsoft, disponible pour Windows, Mac et Linux. Inclut le support pour le versionnement Git. Voir [support de cours dédié](https://cours-web.ch/vscode/).
 * *[CotEditor](https://coteditor.com/)* - un éditeur simple, gratuit et open-source. Disponible pour MacOS uniquement.
 * *[Sublime Text](https://www.sublimetext.com/)* - éditeur freemium. Il existe [un grand nombre d'extensions](https://packagecontrol.io/) pour étendre ses fonctionalités. 
 * *[Nova](https://nova.app/)* - successeur de Coda. Prix: $99/an.
